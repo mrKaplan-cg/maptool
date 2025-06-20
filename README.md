@@ -13,6 +13,8 @@ I’m also proud to be part of KaplanLabs, a team I co-founded with my two broth
 
 - Interested in gaining experience in private audits.
 
+- [Cantina Public Profile](https://cantina.xyz/u/maptool)
+
 ### Other
 - Passionate playing football (Currently injured 🙃).
 
