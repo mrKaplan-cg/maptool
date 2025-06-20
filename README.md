@@ -25,7 +25,7 @@ You can contact me through [@__maptool](https://x.com/__maptool)
 
 | Contest                | Ranking | Category  | Solo/Team       | Platform       | Report  |
 |------------------------|---------|---------------|--------|--------|---------|
-|  [Badger DAO](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58)            | 🥈 2nd     | eBTC Stability Module  |Team (KaplanLabs)| Cantina       |  pending   |
+|  [Badger DAO](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58)            | 🥈 2nd     | Stability Module  |Team (KaplanLabs)| Cantina       |  pending   |
 |  [Debita Finance](https://audits.sherlock.xyz/contests/627)                  | 🥉 3rd   | Marketplace|Team (KaplanLabs)   | Sherlock       |  [link](https://audits.sherlock.xyz/contests/627/report)        |
 |  [StakeUp](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | 4th     | Stablecoin |Team (KaplanLabs)| Cantina      |  [link](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf)              |
 |  [Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602)           | 9th     | Marketplace |Team (KaplanLabs) | Cantina      |  [link](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602)       |
