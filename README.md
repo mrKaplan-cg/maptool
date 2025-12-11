@@ -36,6 +36,7 @@ You can contact me through [@__maptool](https://x.com/__maptool)
 ## Private Audits
 |    Audit     |    Date    | Category  | Provider      | Solo/Team |  Report  |
 |----------|--------------|------|---------|----|-----|
+| [Five Pillars Token](https://www.fivepillarstoken.com/) |  December 2025  | Vesting | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Symbiotic Rewards V2](https://symbiotic.fi/) |  December 2025  | Rewards | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Lista SlisBNBProvider](https://lista.org/) |  November 2025  | Lending | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Lista Lending Broker](https://lista.org/)  |  November 2025  | Broker | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
