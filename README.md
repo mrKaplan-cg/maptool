@@ -11,8 +11,6 @@ I’m also proud to be part of KaplanLabs, a team I co-founded with my two broth
 ### Additional Info
 - No bug bounty submissions yet — will come soon ;).
 
-- Interested in gaining experience in private audits.
-
 - [Cantina Public Profile](https://cantina.xyz/u/maptool)
 
 ### Other
@@ -34,3 +32,16 @@ You can contact me through [@__maptool](https://x.com/__maptool)
 |  [Jigsaw](https://cantina.xyz/competitions/7a40c849-0b35-4128-b084-d9a83fd533ea)            | pending      | Stablecoin  |Team (KaplanLabs)| Cantina       |  [pending]()              |
 
 <br>
+
+## Private Audits
+|    Audit     |    Date    | Category  | Provider      | Solo/Team |  Report  |
+|----------|--------------|------|---------|----|-----|
+| [Symbiotic Rewards V2](https://symbiotic.fi/) |  December 2025  | Rewards | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [Lista SlisBNBProvider](https://lista.org/) |  November 2025  | Lending | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [Lista Lending Broker](https://lista.org/)  |  November 2025  | Broker | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [Alto Staking](https://www.altofoundation.org/) |  October 2025  | Staking | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [Alto Lending](https://www.altofoundation.org/) |  October 2025  | Lending | [Sherlock](https://www.sherlock.xyz/)     | Team |  _pending_             |
+| [Lista DAO Liquidator](https://lista.org/) |  October 2025  | Lending (Morpho fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [Lista DAO DEX](https://lista.org/) |  September 2025  | Curve StableSwap Fork | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [Paymonade](https://paymonade.tech/)|  September 2025  | Curve Wrapper | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [Paymonade](https://paymonade.tech/) |  July 2025  | Stablecoin Router | [Bailsec](https://bailsec.io/)      | Team |  _pending_   
