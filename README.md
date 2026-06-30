@@ -50,7 +50,7 @@ You can contact me through [@__maptool](https://x.com/__maptool)
 | [Lista SlisBNBProvider](https://lista.org/) |  November 2025  | Lending | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Lista Lending Broker](https://lista.org/)  |  November 2025  | Broker | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Alto Staking](https://www.altofoundation.org/) |  October 2025  | Staking | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
-| [Alto Lending](https://www.altofoundation.org/) |  October 2025  | Lending | [Sherlock](https://www.sherlock.xyz/)     | Team |  _pending_             |
+| [Alto Lending](https://www.altofoundation.org/) |  October 2025  | Lending | [Bailsec](https://bailsec.io/)    | Team |  _pending_             |
 | [Lista DAO Liquidator](https://lista.org/) |  October 2025  | Lending (Morpho fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Lista DAO DEX](https://lista.org/) |  September 2025  | Curve StableSwap Fork | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Paymonade](https://paymonade.tech/)|  September 2025  | Curve Wrapper | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
