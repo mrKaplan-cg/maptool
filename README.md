@@ -27,7 +27,7 @@ You can contact me through [@__maptool](https://x.com/__maptool)
 |  [Rezerve Money](https://audits.sherlock.xyz/contests/1134)                  | 🥈 2nd   | Treasury|Team (KaplanLabs)   | Sherlock       |  private        |
 |  [Debita Finance](https://audits.sherlock.xyz/contests/627)                  | 🥉 3rd   | Marketplace|Team (KaplanLabs)   | Sherlock       |  [link](https://audits.sherlock.xyz/contests/627/report)        |
 |  [StakeUp](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | 4th     | Stablecoin |Team (KaplanLabs)| Cantina      |  [link](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf)              |
-|  [Morpho Vault-V2](https://cantina.xyz/competitions/523e1540-f8c3-45ae-9c5d-b6d35d3a326c) | 6th     | Allocation vault | Solo | Cantina      |  [link](https://cantina.xyz/competitions/523e1540-f8c3-45ae-9c5d-b6d35d3a326c)              |
+|  [Morpho-Vaults-V2](https://cantina.xyz/competitions/523e1540-f8c3-45ae-9c5d-b6d35d3a326c) | 6th     | Allocation vault | Solo | Cantina      |  [link](https://cantina.xyz/competitions/523e1540-f8c3-45ae-9c5d-b6d35d3a326c)              |
 |  [Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602)           | 9th     | Marketplace |Team (KaplanLabs) | Cantina      |  [link](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602)       |
 |  [Jigsaw](https://cantina.xyz/competitions/7a40c849-0b35-4128-b084-d9a83fd533ea)            | 14th      | Stablecoin  |Team (KaplanLabs)| Cantina       |  [pending]()              |
 |  [Gamma Liquidity Management](https://codehawks.cyfrin.io/c/2025-02-gamma)            | 21st      | Perps  |Solo| CodeHawks       |  [link](https://codehawks.cyfrin.io/c/2025-02-gamma/results?lt=contest&page=1&sc=reward&sj=reward&t=report)              |
@@ -42,7 +42,7 @@ You can contact me through [@__maptool](https://x.com/__maptool)
 | [Lista Collateral Yield Vault](https://lista.org/) |  June 2026  | Collateral Vault | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Octant Voting](https://octant.app/dashboard/projects) |  May 2026  | Voting | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [StaderLabs - BnbX/MaticX](https://octant.app/dashboard/projects) |  May 2026  | Sunset migration | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
-| [ETH STRAT](https://www.ethstrat.xyz/) |  January 2026  | Treasury Protocol | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [ETH STRAT](https://www.ethstrat.xyz/) |  January 2026  | Treasury | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Lista Credit Broker Liquidation](https://lista.org/) |  January 2026  | Lending Broker | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Lista Credit Broker](https://lista.org/) |  January 2026  | Lending Broker | [Bailsec](https://bailsec.io/)      | Team |  [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20Dao%20-%20Credit%20Loan%20-%20Final%20Report.pdf)             |
 | [Five Pillars Token](https://www.fivepillarstoken.com/) |  December 2025  | Vesting | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
