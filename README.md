@@ -1,8 +1,8 @@
 # Security Portfolio - Maptool/mrKaplan
 
-Hi there 🤓,
+Hi there :)
 
-I'm a passionate Blockchain Security Researcher and a Cybersecurity Engineer. My journey into Web3 security started with the Cyfrin Updraft program, where I completed all foundational and intermediate Solidity courses, culminating in the Advanced Smart Contract Security course. 📁 You can find all related repositories on my GitHub.
+I'm a passionate Blockchain Security Researcher and a Cybersecurity Engineer. My journey into Web3 security started with the Cyfrin Updraft program, where I completed all foundational and intermediate Solidity courses, culminating in the Advanced Smart Contract Security course. You can find all related repositories on my GitHub.
 
 After completing my training, I jumped straight into Web3 security competitions through platforms such as [CodeHawks](https://codehawks.cyfrin.io/contests?contestType=all&ended=true&judging=true&live=true&sort=state&upcoming=true), [Cantina](https://cantina.xyz/opportunities/competitions) and [Sherlock](https://audits.sherlock.xyz/contests). These contests have been an incredible learning experience. I’ve discovered a true passion for finding vulnerabilities, strengthening blockchain ecosystems, and continuously learning new concepts across the Web3 space 🧠🔐.
 
