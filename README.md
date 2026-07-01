@@ -38,17 +38,17 @@ You can contact me through [@__maptool](https://x.com/__maptool)
 ## Private Audits
 |    Audit     |    Date    | Category  | Provider      | Solo/Team |  Report  |
 |----------|--------------|------|---------|----|-----|
-| [Lista Yield Buffer](https://lista.org/) |  June 2026  | Vault Buffer | [Bailsec](https://bailsec.io/)      | Team | [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20Dao%20%E2%80%93%20Yield%20Buffer%20%E2%80%93%20Final%20Audit%20Report.pdf)             |
+| [Lista Yield Buffer](https://lista.org/) |  June 2026  | Allocation Vault Buffer | [Bailsec](https://bailsec.io/)      | Team | [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20Dao%20%E2%80%93%20Yield%20Buffer%20%E2%80%93%20Final%20Audit%20Report.pdf)             |
 | [Lista Collateral Yield Vault](https://lista.org/) |  June 2026  | Collateral Vault | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Octant Voting](https://octant.app/dashboard/projects) |  May 2026  | Voting | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [StaderLabs - BnbX/MaticX](https://octant.app/dashboard/projects) |  May 2026  | Sunset migration | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
-| [ETH STRAT](https://www.ethstrat.xyz/) |  January 2026  | Onchain Treasury Protocol | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
-| [Lista Credit Broker Liquidation](https://lista.org/) |  January 2026  | Lending | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
-| [Lista Credit Broker](https://lista.org/) |  January 2026  | Lending | [Bailsec](https://bailsec.io/)      | Team |  [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20Dao%20-%20Credit%20Loan%20-%20Final%20Report.pdf)             |
+| [ETH STRAT](https://www.ethstrat.xyz/) |  January 2026  | Treasury Protocol | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [Lista Credit Broker Liquidation](https://lista.org/) |  January 2026  | Lending Broker | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [Lista Credit Broker](https://lista.org/) |  January 2026  | Lending Broker | [Bailsec](https://bailsec.io/)      | Team |  [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20Dao%20-%20Credit%20Loan%20-%20Final%20Report.pdf)             |
 | [Five Pillars Token](https://www.fivepillarstoken.com/) |  December 2025  | Vesting | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Symbiotic Rewards V2](https://symbiotic.fi/) |  December 2025  | Rewards | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Lista SlisBNBProvider](https://lista.org/) |  November 2025  | Lending | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
-| [Lista Lending Broker](https://lista.org/)  |  November 2025  | Broker | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
+| [Lista Lending Broker](https://lista.org/)  |  November 2025  | Lending Broker | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Alto Staking](https://www.altofoundation.org/) |  October 2025  | Staking | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
 | [Alto Lending](https://www.altofoundation.org/) |  October 2025  | Lending | [Bailsec](https://bailsec.io/)    | Team |  _pending_             |
 | [Lista DAO Liquidator](https://lista.org/) |  October 2025  | Lending (Morpho fork) | [Bailsec](https://bailsec.io/)      | Team |  _pending_             |
