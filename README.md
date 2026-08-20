@@ -2,9 +2,9 @@
 
 Hi there :)
 
-I'm a passionate Blockchain Security Researcher and a Cybersecurity Engineer. My journey into Web3 security started with the Cyfrin Updraft program, where I completed all foundational and intermediate Solidity courses, culminating in the Advanced Smart Contract Security course. You can find all related repositories on my GitHub.
+I'm a passionate Blockchain Security Researcher and a Cybersecurity Engineer. My journey into Web3 security started with the Cyfrin Updraft program, where I completed all foundational and intermediate Solidity courses, culminating in the Advanced Smart Contract Security course.
 
-After completing my training, I jumped straight into Web3 security competitions through platforms such as [CodeHawks](https://codehawks.cyfrin.io/contests?contestType=all&ended=true&judging=true&live=true&sort=state&upcoming=true), [Cantina](https://cantina.xyz/opportunities/competitions) and [Sherlock](https://audits.sherlock.xyz/contests). These contests have been an incredible learning experience. I’ve discovered a true passion for finding vulnerabilities, strengthening blockchain ecosystems, and continuously learning new concepts across the Web3 space 🧠🔐.
+After completing my training, I jumped straight into Web3 security competitions through platforms such as [CodeHawks](https://codehawks.cyfrin.io/contests?contestType=all&ended=true&judging=true&live=true&sort=state&upcoming=true), [Cantina](https://cantina.xyz/opportunities/competitions) and [Sherlock](https://audits.sherlock.xyz/contests). These contests have been an incredible learning experience. I’ve discovered a true passion for finding vulnerabilities, strengthening blockchain ecosystems, and continuously learning new concepts across the Web3 space.
 
 I’m also proud to be part of KaplanLabs, a team I co-founded with my two brothers [Santipu](https://github.com/santipu03/santipu03/tree/main) and [tonips](https://cantina.xyz/u/tonips). We've been steadily improving and are close to earning LSW status on Sherlock. You can check our profile [here](https://audits.sherlock.xyz/watson/KaplanLabs)
 
