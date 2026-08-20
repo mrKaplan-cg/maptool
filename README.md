@@ -37,7 +37,7 @@ You can contact me through [@__maptool](https://x.com/__maptool)
 
 ## Private Audits
 |    Audit     |    Date    | Category  | Provider      |  Report  |
-|----------|--------------|------|---------|----|-----|
+|----------|--------------|------|---------|-----|
 | [Lista Surfin](https://lista.org/) |  June 2026  | Off-chain lending adapter | [Bailsec](https://bailsec.io/)      |  _pending_             |
 | [AmbitLabs](https://ambit.finance/) |  June 2026  | RWA Markets | [Bailsec](https://bailsec.io/)     |  _pending_             |
 | [Lista Yield Buffer](https://lista.org/) |  June 2026  | Allocation Vault Buffer | [Bailsec](https://bailsec.io/)     | [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20Dao%20%E2%80%93%20Yield%20Buffer%20%E2%80%93%20Final%20Audit%20Report.pdf)             |
